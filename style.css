@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
 * {
   font-family: "Italianno", cursive;
   font-weight: 400;
@@ -7,20 +8,27 @@
 
 h1 {
     color:saddlebrown;
-    font-size: 40px;
+    font-size: 60px;
+    font-family: "Italianno", cursive;
     text-align: center;
 }
 h2 {
     color:saddlebrown;
-    font-size: 30px;
+    font-family: "Italianno", cursive;
+    font-size: 40px;
     text-align: center;
 }
 p{
     color:black;
-    font-size: 20px;
+    font-family: "Italianno", cursive;
+    font-size: 30px;
     text-align: center;
 }
 
 body {
-  background-image: bg.jpg;
+
+  background-image: url("bg.jpg");
+  
+  background-repeat: repeat;
+
 }

@@ -1,0 +1,23 @@
+.column {
+    width: 50%;
+    float: left;
+    justify-content: center;
+}
+
+.row {
+    justify-content: center;
+}
+
+.subpage-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.socials {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
